@@ -105,7 +105,7 @@ class App extends React.Component {
 
 Heres some code, \`<div></div>\`, between 2 backticks.
 
-\`\`\`js
+\`\`\`
 // this is multi-line code:
 
 function anotherExample(firstLine, lastLine) {
